@@ -2,7 +2,7 @@
 
 Thiago Andrade Dos Santos
 
-- Utilizo plataforma  Altura para aprender sobe programação
+- Utilizo plataforma  Alura para aprender sobe programação
 - Estou me desenvolvendo nas linguagens JavaScript, HTML e CSS.
 - Utilizo espaço para minha organização e compartilhamento dos meu projetos.
 
